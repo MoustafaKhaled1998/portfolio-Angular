@@ -1,0 +1,28 @@
+.container{
+    width: 90%;
+    margin: auto;
+    padding: 32px 0;
+    color: white;
+}
+.wrapper{
+    background-color: rgb(35, 35, 35);
+}
+.footer-content{
+    padding-top: 24px;
+    display: flex;
+    justify-content: space-between;
+}
+
+button{
+    border: 1px solid white;
+    background-color: transparent;
+    color: white;
+    padding: 0px 16px;
+}
+.textPad{
+    margin-bottom: 16px;
+}
+img{
+    width: 20px;
+    margin-right: 12px;
+}
